@@ -1,1 +1,1 @@
-# Naturisk
+# This repository contains most of the code for the project Naturisk's website and functioning. The project is for educating and spreading informating on common forest diseases and contains an accurate AI to detect them.
